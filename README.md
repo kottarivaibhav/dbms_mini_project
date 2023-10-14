@@ -10,7 +10,7 @@ This is an event management database used by college to conduct various competit
 <br>This is a predefined database. When a participant enter their choice of event, the values
 will then be partially stored in the database. It will be stored permanently only when
 the participant completes the registration process.
-<br>• Below that is a small section which gives information about the college.
+<br>• Below that is a small section which gives information about the college.<br>
 <br>![image](https://github.com/kottarivaibhav/dbms_mini_project/assets/114846137/6169da01-b680-40f9-b86c-78d32c861729)
 <br><br>![image](https://github.com/kottarivaibhav/dbms_mini_project/assets/114846137/ecb67e65-b835-4453-ba0b-4f61da0ec8a3)
 <br><br>![image](https://github.com/kottarivaibhav/dbms_mini_project/assets/114846137/6fadc51f-f5d9-4d02-a383-dce1628b62f7)
