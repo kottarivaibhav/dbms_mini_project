@@ -3,7 +3,7 @@ This is an event management database used by college to conduct various competit
 <br>Software used:Vs code and Xampp Server.<br>
 <br>Languages:PHP,Html,CSS,JavaScript<br>
 <br>So I will just explain in brief about the various pages that u will come across in our website
-<br><br>HOME PAGE:
+<br><br><b>HOME PAGE:</b>
 <br>• It has 3 headers options home, event and admin login.
 <br>• As you drag down you get event database.
 <br>• In the event database the participants get option for choosing the event of their choice.
