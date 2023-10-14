@@ -11,7 +11,7 @@ This is an event management database used by college to conduct various competit
 will then be partially stored in the database. It will be stored permanently only when
 the participant completes the registration process.
 <br>• Below that is a small section which gives information about the college.
-<br>REGISTRATION PAGE
+<br><br>REGISTRATION PAGE
 <br>• Registration page is the page that you will be directed as soon as you press any of the
 event of your choice.
 <br>• Here you have to fill all your details like – name, phone number, branch , college and
@@ -19,15 +19,14 @@ email.
 <br>• After you fill, you have to press submit for the registration process to get completed.
 <br>• Once the registration is done, your data will be stored in the database.
 <br>• After that you will be re-directed to the homepage.
-<br>ADMIN-PAGE
+<br><br>ADMIN-PAGE
 <br>• Here all the person who are incharge of the event will be made admin and will be given
 with a personal username and password.
 <br>• Once they enter the user name and password they will enter into the CRUD page which
 basically is a page to perform the CRUD operation (Create Read Update Delete).
-<br>CRUD PAGE
+<br><br>CRUD PAGE
 <br>• This is the page which shows up once the admin login.
 <br>• In this page the admin can alter the participants details like :
-
 <br>• Read: For some reason if the admin wants to get the list of participants in a particular
 event he can access it using the search bar option.
 <br>• Update: If a participant wants to update his existing details like name, phone-number,
@@ -38,7 +37,7 @@ removing the participant id from the delete option provided.
 been closed . In such case the admin can make add a participant from the create option
 provided .
 <br>• All these changes is possible in the crud page.
-<br>ER diagram 
+<br><br>ER diagram 
 <br>![image](https://github.com/kottarivaibhav/dbms_mini_project/assets/114846137/beb6d9f8-4ca7-4124-9bef-dec28043393e)
 
 
