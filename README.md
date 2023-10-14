@@ -3,11 +3,11 @@ This is an event management database used by college to conduct various competit
 <br>Software used:Vs code and Xampp Server.
 <br>Languages:PHP,Html,CSS,JavaScript
 <br>So I will just explain in brief about the various pages that u will come across in our website
-<br>HOME PAGE
+<p>HOME PAGE
 • It has 3 headers options home, event and admin login.
 • As you drag down you get event database.
 • In the event database the participants get option for choosing the event of their choice.
-This is a predefined database. When a participant enter their choice of event, the values
+This is a predefined database. When a participant enter their choice of event, the values</p>
 will then be partially stored in the database. It will be stored permanently only when
 the participant completes the registration process.
 • Below that is a small section which gives information about the college.
