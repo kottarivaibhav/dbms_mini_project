@@ -21,14 +21,14 @@ event of your choice.
 email.
 <br>• After you fill, you have to press submit for the registration process to get completed.
 <br>• Once the registration is done, your data will be stored in the database.
-<br>• After that you will be re-directed to the homepage.
+<br>• After that you will be re-directed to the homepage.<br><br>
 <br>![image](https://github.com/kottarivaibhav/dbms_mini_project/assets/114846137/24525be5-6fa2-4fbf-aae3-32e2b48359d5)
 <br>![image](https://github.com/kottarivaibhav/dbms_mini_project/assets/114846137/e622fcd6-e9ab-4fe7-bd0d-11cd219c81d5)
 <br><br>ADMIN-PAGE
 <br>• Here all the person who are incharge of the event will be made admin and will be given
 with a personal username and password.
 <br>• Once they enter the user name and password they will enter into the CRUD page which
-basically is a page to perform the CRUD operation (Create Read Update Delete).
+basically is a page to perform the CRUD operation (Create Read Update Delete).<br><br>
 <br>![image](https://github.com/kottarivaibhav/dbms_mini_project/assets/114846137/666f48b6-b96a-440d-82ab-508ff2cf9a75)
 
 <br><br>CRUD PAGE
@@ -43,15 +43,15 @@ removing the participant id from the delete option provided.
 <br>• Create: If there is vacant place for a participant to join but the registration portal has
 been closed . In such case the admin can make add a participant from the create option
 provided .
-<br>• All these changes is possible in the crud page.
+<br>• All these changes is possible in the crud page.<br><br>
 <br>![image](https://github.com/kottarivaibhav/dbms_mini_project/assets/114846137/c38bbad3-f901-4405-8e22-eed3a0f82c19)
 <br>![image](https://github.com/kottarivaibhav/dbms_mini_project/assets/114846137/d3ac0b6c-bf04-457f-82b7-971b9339c0a3)
 <br>![image](https://github.com/kottarivaibhav/dbms_mini_project/assets/114846137/c9fc42d9-5ad2-452e-8bf5-7ea1612d7464)
-
-<br><br>ER diagram 
+<br><br>
+<br><br>ER diagram :
 <br>![image](https://github.com/kottarivaibhav/dbms_mini_project/assets/114846137/beb6d9f8-4ca7-4124-9bef-dec28043393e)
 <br><br>
-Admin login
+Schema Diagram :
 <br>![image](https://github.com/kottarivaibhav/dbms_mini_project/assets/114846137/57cd6414-f705-40d0-81bb-c877f7b6ab68)
 
 
