@@ -1,9 +1,9 @@
 # dbms_mini_project
-This is an event management database used by college to conduct various competitions in an event .
-<br>Software used:Vs code and Xampp Server.
-<br>Languages:PHP,Html,CSS,JavaScript
+This is an event management database used by college to conduct various competitions in an event .<br>
+<br>Software used:Vs code and Xampp Server.<br>
+<br>Languages:PHP,Html,CSS,JavaScript<br>
 <br>So I will just explain in brief about the various pages that u will come across in our website
-<br>HOME PAGE
+<br><br>HOME PAGE
 <br>• It has 3 headers options home, event and admin login.
 <br>• As you drag down you get event database.
 <br>• In the event database the participants get option for choosing the event of their choice.
