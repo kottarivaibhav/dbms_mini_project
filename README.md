@@ -6,6 +6,7 @@ This is an event management database used by a college to conduct various compet
 ## Table of Contents
 - [Software Used](#software-used)
 - [Languages](#languages)
+- [Installation](#installation)
 - [Pages Overview](#pages-overview)
   - [Home Page](#home-page)
 - [Screenshots](#screenshots)
@@ -22,6 +23,41 @@ This is an event management database used by a college to conduct various compet
 - HTML
 - CSS
 - JavaScript
+
+## Installation
+
+### Prerequisites
+- [XAMPP](https://www.apachefriends.org/index.html) installed on your machine.
+- A web browser.
+
+### Steps
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/kottarivaibhav/dbms_mini_project.git
+
+2. **Move to the Project Directory**
+    cd dbms_mini_project
+
+3.  **Copy the Project Files to XAMPP's htdocs Directory**
+    cp -r * /path/to/xampp/htdocs/dbms_mini_project
+    Replace /path/to/xampp/htdocs with the actual path to your XAMPP htdocs directory.
+
+    Start XAMPP
+
+4. Open XAMPP Control Panel.
+   Start the Apache and MySQL modules.
+   Import the Database
+
+5. Open your web browser and go to http://localhost/phpmyadmin.
+   Create a new database named event_management.
+    Import the SQL file located in the project directory (event_management.sql).
+6.  Access the Project
+    Open your web browser and go to http://localhost/dbms_mini_project.
+
+    ```
+
+
 
 ## Pages Overview
 <br>So I will just explain in brief about the various pages that u will come across in our website
