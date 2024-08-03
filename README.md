@@ -1,7 +1,29 @@
-# dbms_mini_project
-This is an event management database used by college to conduct various competitions in an event .<br>
-<br>Software used:Vs code and Xampp Server.<br>
-<br>Languages:PHP,Html,CSS,JavaScript<br>
+# DBMS Mini Project
+
+## Description
+This is an event management database used by a college to conduct various competitions in an event.
+
+## Table of Contents
+- [Software Used](#software-used)
+- [Languages](#languages)
+- [Pages Overview](#pages-overview)
+  - [Home Page](#home-page)
+- [Screenshots](#screenshots)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## Software Used
+- VS Code
+- XAMPP Server
+
+## Languages
+- PHP
+- HTML
+- CSS
+- JavaScript
+
+## Pages Overview
 <br>So I will just explain in brief about the various pages that u will come across in our website
 <br><br><b>HOME PAGE:</b>
 <br>• It has 3 headers options home, event and admin login.
@@ -55,5 +77,10 @@ provided .
 Schema Diagram :
 <br>![image](https://github.com/kottarivaibhav/dbms_mini_project/assets/114846137/57cd6414-f705-40d0-81bb-c877f7b6ab68)
 
+## Contributing
+If you would like to contribute to this project, please fork the repository and submit a pull request.
+
+## Contact
+Vaibhav Kottari - [your.email@example.com](mailto:your.email@example.com)
 
 
