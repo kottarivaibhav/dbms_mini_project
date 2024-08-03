@@ -41,6 +41,7 @@ This is an event management database used by a college to conduct various compet
 
 3.  **Copy the Project Files to XAMPP's htdocs Directory**
     cp -r * /path/to/xampp/htdocs/dbms_mini_project
+    
     Replace /path/to/xampp/htdocs with the actual path to your XAMPP htdocs directory.
 
     Start XAMPP
