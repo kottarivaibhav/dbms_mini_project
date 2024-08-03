@@ -35,13 +35,16 @@ This is an event management database used by a college to conduct various compet
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/kottarivaibhav/dbms_mini_project.git
+   ```
 
+
+    
 2. **Move to the Project Directory**
     cd dbms_mini_project
 
 3.  **Copy the Project Files to XAMPP's htdocs Directory**
     cp -r * /path/to/xampp/htdocs/dbms_mini_project
-    
+
     Replace /path/to/xampp/htdocs with the actual path to your XAMPP htdocs directory.
 
     Start XAMPP
@@ -50,13 +53,16 @@ This is an event management database used by a college to conduct various compet
    Start the Apache and MySQL modules.
    Import the Database
 
-5. Open your web browser and go to http://localhost/phpmyadmin.
-   Create a new database named event_management.
+5. Open your web browser and go to  
+    ```bash
+   http://localhost/phpmyadmin.
+   ```
+    Create a new database named event_management.
     Import the SQL file located in the project directory (event_management.sql).
 6.  Access the Project
     Open your web browser and go to http://localhost/dbms_mini_project.
 
-    ```
+    
 
 
 
