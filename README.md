@@ -124,6 +124,6 @@ Schema Diagram :
 If you would like to contribute to this project, please fork the repository and submit a pull request.
 
 ## Contact
-Vaibhav Kottari - [your.email@example.com](mailto:your.email@example.com)
+For further communication , feel free to communicate with me  - [Vaibhav's Mail](mailto:Kottarivaibhav@gmail.com)
 
 
