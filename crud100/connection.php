@@ -1,4 +1,4 @@
-<!--?php
+<?php
 
 $servername = "localhost";
 $username = "root";
@@ -14,4 +14,4 @@ if (!$conn) {
 }
 
 
-?-->
+?>
