@@ -2,7 +2,7 @@
 
 $servername = "localhost";
 $username = "root";
-$password = "Vaibhav@@2104";
+$password = "";
 $db = "eventmgmt";
 
 // Create connection
