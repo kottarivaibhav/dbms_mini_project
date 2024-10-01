@@ -1,0 +1,16 @@
+Key Features and Technologies
+PHP for Server-Side Scripting:
+
+The project uses PHP to handle server-side logic, including database queries and dynamic content generation.
+Integration with MySQL Database:
+
+The project integrates with a MySQL database to store and retrieve event-related data. SQL queries are used to interact with the database.
+Front-End Technologies:
+
+HTML: Used for structuring the web pages.
+CSS: Used for styling the web pages, ensuring a visually appealing design.
+JavaScript: Used for adding interactivity to the web pages.
+Specific Libraries and Frameworks:
+
+Bootstrap: Utilized for responsive design, ensuring the website is mobile-friendly and looks good on all devices.
+Scrollax.js: Used for parallax scrolling effects, enhancing the visual appeal of the website.
